@@ -3,5 +3,6 @@
     "subTitle":"银辉洒落，诗意流淌——在月光的温柔里，寻觅心灵的共鸣。",
     "avatarUrl":"https://raw.githubusercontent.com/freedom-blog/freedom-blog.github.io/main/img/logo.svg",
     "GMEEK_VERSION":"last",
-    "startSite":"07/29/2024"
+    "startSite":"07/29/2024",
+    "singlePage":["about"],
 }
